@@ -1,1 +1,1 @@
-# SummerCloud-Grupo-2
+# SummerCloud Grupo-2
