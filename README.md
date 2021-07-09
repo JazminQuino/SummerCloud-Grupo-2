@@ -1,1 +1,1 @@
-# SummerCloud Grupo-2
+# :palm_tree: SummerCloud Grupo-2
