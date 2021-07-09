@@ -25,7 +25,7 @@ Azure nos ofrece:
 Azure ofrece muchos servicios los cuales se clasifican en las siguientes categorias:
 
 
-| Servicios||
+| Categoria de Servicios||
 |-------------------------------------------------------------------------- | --------------- |
 | Proceso    |  Web|  
 | Redes|  IoT |
@@ -34,9 +34,13 @@ Azure ofrece muchos servicios los cuales se clasifican en las siguientes categor
 |Bases de datos|DevOps|
 
      
-[Servicios de Azure]([Servicios](https://azure.microsoft.com/es-mx/services/)). Aquí puedes encotrar más información sobre todos los servicios que ofrece Azure.
+Aquí [Servicios de Azure](https://azure.microsoft.com/es-mx/services/) puedes encotrar más información sobre todos los servicios que ofrece Azure.
 
 ## Cuentas de Azure 
+
+Bien para poder utilzar los servicios de Azure debemos contar con una cuenta Azure la cual se asocia a una o varias suscripciones, esta cuenta permitira interactuar con los servicios que Azure ofrece.
+
+Para conocer la variedad de servicios ofrece una cuenta gratuita que da acceso gratuito por 12 meses sole debe contar con un número de teléfono, tarjeta de credito y una cuenta Microsoft. Y también ofrece cuentas de estudiantes por ejemplo en Innovacción nosotros tenemos acceso a una cuenta de estudiantes. 
 
 ## Tipos de modelos en la nube
 
