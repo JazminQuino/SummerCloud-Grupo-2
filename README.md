@@ -27,16 +27,14 @@ Azure ofrece muchos servicios los cuales se clasifican en las siguientes categor
 
 | Servicios||
 |-------------------------------------------------------------------------- | --------------- |
-|   Proceso    |  Web|  
+| Proceso    |  Web|  
 | Redes|  IoT |
 | Almacenamiento|Macrodatos|
 | Móvil|IA|
 |Bases de datos|DevOps|
 
      
-
-* 
-* 
+[Servicios de Azure]([Servicios](https://azure.microsoft.com/es-mx/services/)). Aquí puedes encotrar más información sobre todos los servicios que ofrece Azure.
 
 ## Cuentas de Azure 
 
