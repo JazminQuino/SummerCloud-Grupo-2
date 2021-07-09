@@ -12,12 +12,31 @@ La nube ahora ofrece muchos servicios tanto para desarrolladores, para realizar 
 
 ## Azure 
 
-[Azure](https://portal.azure.com) es la nube de Microsoft, la ofrece una gran variedad de servicios que ayudan a las empresar a poder completar los desafios del mundo actual, estamos en la era digital. Azure nos ofrece 
+[Azure](https://portal.azure.com) es la nube de Microsoft, la ofrece una gran variedad de servicios que ayudan a las empresar a poder completar los desafios del mundo actual, estamos en la era digital. 
+
+Azure nos ofrece: 
 * Innovació continua
 * Admite todos los lengaujes y marcos 
 * Integración de la  nube hibirda 
 * Seguridad 
   
+## Servicios de Azure
+
+Azure ofrece muchos servicios los cuales se clasifican en las siguientes categorias:
+
+
+| Servicios||
+|-------------------------------------------------------------------------- | --------------- |
+|   Proceso    |  Web|  
+| Redes|  IoT |
+| Almacenamiento|Macrodatos|
+| Móvil|IA|
+|Bases de datos|DevOps|
+
+     
+
+* 
+* 
 
 ## Cuentas de Azure 
 
