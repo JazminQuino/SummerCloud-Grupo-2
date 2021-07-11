@@ -102,3 +102,53 @@ Los proveedores de servicios en la nube operan en un modelo basado en el consumo
 
 Cuando se  habla de informática sin servido hace referencia a que como un usuario desarrollador ya no tienes que preocuparte por la infraestructura. Esta arquitectura es esclable y controlada por eventos, solo se usan recuros cuando ocurre una función o un desencadenador lo que permite llevar con rápidez productos al mercado, optimizando. 
 
+
+## Estructura organizativa de los recursos en Azure
+
+<p align="center"> 
+    <strong></strong>
+    <img alt="TiposNubes" src="./Imagenes/JerarquiaAzure.png"
+    <strong></strong>
+</p>
+
+## Zonas de disponibilidad, pares de regiones y regiones de Azure
+
+### Regiones de Azure
+
+Una área geografica en el planeta donde hay al menos un centro de datos o más, conectados mediante una red de baja latencia. Estas regiones las elegimos a la hora de implementar algún servicio de Azure, lo recoendable es que sea el más cercano a nosotros para obtener una mejor escalabilidad y redundacia.
+
+
+**Ejemplos de regiones:** 
+* Oeste de EE. UU.
+* Centro de Canadá
+* Europa Occidental
+* Este de Australia 
+* Japón Occidental. 
+
+**Regiones de Azure especiales**
+
+* US DoD (centro), US Gov Virginia, US Gov Iowa y más.
+* Este de China, Norte de China y más.
+
+### Zonas de disponibilidad de Azure
+
+Una zona de disponibilidad son centros de datos separados en una misma región, por si un centro de datos falla, el otro seguira trabajando. Las zonas de disponibilidad están conectadas a través de redes de fibra óptica de alta velocidad privadas.
+
+
+
+
+| Servicios de Azure que admiten zonas de disponibilidad  |Ejemplos |
+|-------------------------------------------------------------------------- | --------------- |
+| **Servicios de zona**    |  Ancle el recurso a una zona específica (por ejemplo, máquinas virtuales, discos administrados, direcciones IP).|  
+| **Servicios de redundancia de zona**|   La plataforma se replica automáticamente entre zonas (por ejemplo, almacenamiento con redundancia de zona, SQL Database). |
+
+
+### Pares de regiones de Azure
+
+Azure empareja regiones que se encuetran en una misma zona geográfica a un a distacia aproximada de 500 km. Esto le permite replicar recursos lo que ayuda a garantizar que si una de las regiones falla, al instante se podrá trabajar con la otra región 
+
+Algunos pares de regiones de ejemplo en Azure son Oeste de EE. UU. y Este de EE. UU., o Sudeste Asiático y Asia Pacífico.
+
+## Recursos de Azure y Azure Resource Manager
+
+## Suscripciones y grupos de administración de Azure
