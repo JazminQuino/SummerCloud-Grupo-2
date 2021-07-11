@@ -66,6 +66,37 @@ Para conocer la variedad de servicios ofrece una cuenta gratuita que da acceso g
     <strong></strong>
 </p>
 
+### Gastos de capital en comparación con los gastos operativos
+
+| CapEx| OpeEx|
+|-------------------------------------------------------------------------- | --------------- |
+| Cuando se hace una fuerte inversión inicial en infraestructura la cual va perdiendo su valor con el tiempo y se tiene que invertir constantemente  para mantenerla| El dinero se invierte en productos y servicios que se deben pagar de acuerdo al uso que se le de y puede ser facturado rápido.  
+
+### Modelo basado en el consumo
+
+Los proveedores de servicios en la nube operan en un modelo basado en el consumo, lo que significa que los usuarios finales solo pagan por los recursos que usan. Lo que usan es lo que pagan.
+
+* No se paga por adelantado 
+* No es necearia una infraestructura costosa
+* Puedes agregar recursos adicionales cuando lo necesites 
+* Puedes dejar de pagar un recurso que ya no necesitas
 
 ## ¿Qué son los modelos de servicio en la nube?
+
+| Modelo| Definición| Descripción|
+|-------------------------------------------------------------------------- | --------------- |--------------- |
+| IaaS| Infraestructura como servicio| Se adquila hardware, en vez de comparlo.  |
+| PaaS| Plataforma como servicio| Entorno de espedaje, ya que como usuario solo te preocupas por el desarrollo de aplicaciones. |
+| SaaS| Software como servicio| Aplicación a la que normalmente accedes con un credencial de usuario y pagas un sucripción mesual o anual.|
+
+### Niveles de responsabilidad entre un proveedor de servicios en la nube y un inquilino de nube
+
+<p align="center"> 
+    <strong></strong>
+    <img alt="TiposNubes" src="./Imagenes/RespNube.png"
+    <strong></strong>
+</p>
+
+
 ## ¿Qué es la informática sin servidor?
+
