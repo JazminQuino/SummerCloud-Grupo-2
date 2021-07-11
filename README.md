@@ -70,7 +70,7 @@ Para conocer la variedad de servicios ofrece una cuenta gratuita que da acceso g
 
 | CapEx| OpeEx|
 |-------------------------------------------------------------------------- | --------------- |
-| Cuando se hace una fuerte inversión inicial en infraestructura la cual va perdiendo su valor con el tiempo y se tiene que invertir constantemente  para mantenerla| El dinero se invierte en productos y servicios que se deben pagar de acuerdo al uso que se le de y puede ser facturado rápido.  
+| Cuando se hace una fuerte inversión inicial en infraestructura la cual va perdiendo su valor con el tiempo y se tiene que invertir constantemente  para mantenerla.| El dinero se invierte en productos y servicios que se deben pagar de acuerdo al uso que se le de y puede ser facturado rápido.  
 
 ### Modelo basado en el consumo
 
@@ -85,9 +85,9 @@ Los proveedores de servicios en la nube operan en un modelo basado en el consumo
 
 | Modelo| Definición| Descripción|
 |-------------------------------------------------------------------------- | --------------- |--------------- |
-| IaaS| Infraestructura como servicio| Se adquila hardware, en vez de comparlo.  |
-| PaaS| Plataforma como servicio| Entorno de espedaje, ya que como usuario solo te preocupas por el desarrollo de aplicaciones. |
-| SaaS| Software como servicio| Aplicación a la que normalmente accedes con un credencial de usuario y pagas un sucripción mesual o anual.|
+| IaaS| Infraestructura como servicio| Se adquila hardware, en vez de compralo.  |
+| PaaS| Plataforma como servicio| Entorno de hospedaje, ya que como usuario solo te preocupas por el desarrollo de aplicaciones. |
+| SaaS| Software como servicio| Aplicación a la que normalmente accedes con un credenciales y pagas un sucripción mesual o anual.|
 
 ### Niveles de responsabilidad entre un proveedor de servicios en la nube y un inquilino de nube
 
@@ -99,4 +99,6 @@ Los proveedores de servicios en la nube operan en un modelo basado en el consumo
 
 
 ## ¿Qué es la informática sin servidor?
+
+Cuando se  habla de informática sin servido hace referencia a que como un usuario desarrollador ya no tienes que preocuparte por la infraestructura. Esta arquitectura es esclable y controlada por eventos, solo se usan recuros cuando ocurre una función o un desencadenador lo que permite llevar con rápidez productos al mercado, optimizando. 
 
