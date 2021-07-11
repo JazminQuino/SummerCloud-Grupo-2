@@ -45,7 +45,8 @@ Para conocer la variedad de servicios ofrece una cuenta gratuita que da acceso g
 ## Tipos de modelos en la nube
 <p align="center"> 
     <strong></strong>
-    <img alt="TiposNubes" src="./Imagenes/TiposNube.png" width=800 height=350>
+    <img alt="TiposNubes" src="./Imagenes/TiposNube.png"
+    <strong></strong>
 </p>
 
 ## ¿Qué son los modelos de servicio en la nube?
