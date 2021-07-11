@@ -43,6 +43,10 @@ Bien para poder utilzar los servicios de Azure debemos contar con una cuenta Azu
 Para conocer la variedad de servicios ofrece una cuenta gratuita que da acceso gratuito por 12 meses sole debe contar con un número de teléfono, tarjeta de credito y una cuenta Microsoft. Y también ofrece cuentas de estudiantes por ejemplo en Innovacción nosotros tenemos acceso a una cuenta de estudiantes. 
 
 ## Tipos de modelos en la nube
+<p align="center"> 
+    <strong></strong>
+    <img alt="TiposNubes" src="./Imagenes/TiposNube.png" width=800 height=350>
+</p>
 
 ## ¿Qué son los modelos de servicio en la nube?
 ## ¿Qué es la informática sin servidor?
