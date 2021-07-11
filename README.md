@@ -58,5 +58,14 @@ Para conocer la variedad de servicios ofrece una cuenta gratuita que da acceso g
     <strong></strong>
 </p>
 
+### Ventajas de la informática en la nube
+
+<p align="center"> 
+    <strong></strong>
+    <img alt="TiposNubes" src="./Imagenes/VentajasNube.png"
+    <strong></strong>
+</p>
+
+
 ## ¿Qué son los modelos de servicio en la nube?
 ## ¿Qué es la informática sin servidor?
