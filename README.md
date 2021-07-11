@@ -58,6 +58,5 @@ Para conocer la variedad de servicios ofrece una cuenta gratuita que da acceso g
     <strong></strong>
 </p>
 
-
 ## ¿Qué son los modelos de servicio en la nube?
 ## ¿Qué es la informática sin servidor?
