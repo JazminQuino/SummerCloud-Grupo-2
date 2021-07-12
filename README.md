@@ -217,4 +217,10 @@ Hay dos tipos de límites de suscripción que puede utilizar:
 
 ### Grupos de administración de Azure
 
-### Jerarquía de los grupos de administración y las suscripciones
+Los grupos de administración de Azure permiten administra suscripciones y las configuraciones que tenga un grupo de administración son heredadas a las sucripciones.
+
+Puede compilar una estructura flexible de grupos de administración y suscripciones para organizar los recursos en una jerarquía para una administración unificada de las directivas y el acceso.
+
+El grupo de administración le ayuda a adminitrar quien tiene acceso y quien no a las sucripciones que tenga en ese grupo además de poder definir ciertos elementos como  que cantidad de recursos puede implementar o en que región implementarla.
+
+
