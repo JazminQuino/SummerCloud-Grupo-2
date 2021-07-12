@@ -170,12 +170,11 @@ Un grupo de recursos es un contenedor de recursos, eso no ayuda a mantener un or
 
 Es un servicios de administración e implementación de Azure con el cual pordemos  crear, actualizar y eliminar recursos de la cuenta de Azure asi como otras características como etiquetas, acceso, bloqueos y organización de los recursos.
 
-**Funcionamiento:**
-
-1. Un usuario envía una solicitud de cualquiera de las herramientas
-2. Resource Manager recibe la solicitud
-3. Autentica y autoriza la solicitud
-4. Resource Manager envía la solicitud al servicio de Azure, que lleva a cabo la acción solicitada. 
+<p align="center"> 
+    <strong></strong>
+    <img alt="TiposNubes" src="./Imagenes/ResourceManager.png"
+    <strong></strong>
+</p>
 
 
 Herramientas para hacer solicitudes a Azure Resource Manager 
@@ -184,6 +183,7 @@ Herramientas para hacer solicitudes a Azure Resource Manager
     <img alt="TiposNubes" src="./Imagenes/Administrador.png"
     <strong></strong>
 </p>
+
 
 Con Resource Manager puede
 
