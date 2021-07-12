@@ -151,4 +151,67 @@ Algunos pares de regiones de ejemplo en Azure son Oeste de EE. UU. y Este de EE.
 
 ## Recursos de Azure y Azure Resource Manager
 
+### Grupos de recursos 
+Un grupo de recursos es un contenedor de recursos, eso no ayuda a mantener un orden de los recursos que creemos ya que en ocasiones cuando se crea un recurso como una MV se crean más recursos.
+
+* Todos los recursos deben de estar en un grupo de recursos
+* Un recurso solo pude pertenercer a un grupo de recursos 
+* Los grupos de recursos no se pueden anidar 
+* Los recursos se pueden mover de grupo de recursos a menos que existan limitaciones
+  
+
+| Nombre | Función en un grupo de recursos  |
+|-------------------------------------------------------------------------- | --------------- |
+| Agrupación lógica  | La agrupación de recursos nos permite tener mejor administración de los recursos que implementememos|  
+| Ciclo de vida|   Cuando se elimina un grupo de recursos, se eliminan todos los recursos que se encuentren en el  |
+|Autorización| Podemos aplicar permisos de control de acceso basado en roles (RBAC), nos permite dar accesos a los grupos de recursos  solo personas autorizadas|
+
+### Azure Resource Manager
+
+Es un servicios de administración e implementación de Azure con el cual pordemos  crear, actualizar y eliminar recursos de la cuenta de Azure asi como otras características como etiquetas, acceso, bloqueos y organización de los recursos.
+
+**Funcionamiento:**
+
+1. Un usuario envía una solicitud de cualquiera de las herramientas
+2. Resource Manager recibe la solicitud
+3. Autentica y autoriza la solicitud
+4. Resource Manager envía la solicitud al servicio de Azure, que lleva a cabo la acción solicitada. 
+
+
+Herramientas para hacer solicitudes a Azure Resource Manager 
+* Azure Portal 
+* PowerShell,
+* CLI de Azure
+* API REST
+* SDK de cliente
+
+Con Resource Manager puede
+
+* Use plantillas declarativas. Una plantilla de Resource Manager es un archivo JSON que define lo que quiere implementar en Azure
+* Mantenga todos los recursos de la solución en grupo para mejor administración.
+* Definir las dependencias entre recursos  para que estos se puedan definir en el orden correcto
+* Aplique control de acceso a todos los servicios
+* Aplique etiquetas a los recursos para ordenarlos 
+
 ## Suscripciones y grupos de administración de Azure
+
+### Suscripciones de Azure
+
+Es la llave que le permite implemetar recursos en Azure, ya que le proporciona acceso autenticado y autorizado a los servicios y productos de Azure.
+Una suscripción de Azure es una unidad lógica de servicios de Azure que está relacionada a una cuenta de Azure, que es una identidad en Azure Active Directory (Azure AD).
+
+Hay dos tipos de límites de suscripción que puede utilizar:
+
+| límites de suscripción | |
+|-------------------------------------------------------------------------- | --------------- |
+|Facturación  |Cómo se facturar una cuenta de Azure, puede crear varias suscripción  que tenga diferentes requistos de facturación |   
+|Control de accesos| Puede controlar quienes tienen acceso a las suscripciones, por ejemplo puede implemente diferentes sucripciones por departamentos para tener un mejor control|
+
+### Suscripción de Azure adicional
+
+<p align="center"> 
+    <strong></strong>
+    <img alt="TiposNubes" src="./Imagenes/Suscripciones.png"
+    <strong></strong>
+</p>
+
