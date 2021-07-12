@@ -179,11 +179,11 @@ Es un servicios de administración e implementación de Azure con el cual pordem
 
 
 Herramientas para hacer solicitudes a Azure Resource Manager 
-* Azure Portal 
-* PowerShell,
-* CLI de Azure
-* API REST
-* SDK de cliente
+<p align="center"> 
+    <strong></strong>
+    <img alt="TiposNubes" src="./Imagenes/Administrador.png"
+    <strong></strong>
+</p>
 
 Con Resource Manager puede
 
@@ -215,3 +215,6 @@ Hay dos tipos de límites de suscripción que puede utilizar:
     <strong></strong>
 </p>
 
+### Grupos de administración de Azure
+
+### Jerarquía de los grupos de administración y las suscripciones
