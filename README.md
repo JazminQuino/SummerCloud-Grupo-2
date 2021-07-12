@@ -195,7 +195,7 @@ Con Resource Manager puede
 
 ## Suscripciones y grupos de administración de Azure
 
-### Suscripciones de Azure
+### Suscripciones de Azure  :key:
 
 Es la llave que le permite implemetar recursos en Azure, ya que le proporciona acceso autenticado y autorizado a los servicios y productos de Azure.
 Una suscripción de Azure es una unidad lógica de servicios de Azure que está relacionada a una cuenta de Azure, que es una identidad en Azure Active Directory (Azure AD).
