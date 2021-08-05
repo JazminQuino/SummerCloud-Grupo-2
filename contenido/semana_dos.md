@@ -58,6 +58,34 @@ Podemos trabajar por lotes paralelos de gran escala y informática de alto rendi
 
 ### App Service
 
+* Crear y hopedar aplicaciones web.
+* Paas
+* Compatible con Windows y Linux
+  
+ #### Tipos de servicios de aplicaciones 
+
+<p align="center"> 
+    <strong></strong>
+    <img alt="TiposNubes" src="../Imagenes/APPs_services.png"
+    <strong></strong>
+</p>
+
+
+| ||
+|-------------------------------------------------------------------------- | --------------- |
+| Apps Web    | Compatible con ASP.NET, ASP.NET Core, Java, Ruby, Node.js, PHP o Python|  
+| App API|  Compatible con Swagger y la posibilidad de empaquetar y publicar la API en Azure Marketplace |
+| Trabajos Web |Se puede usar la característica WebJobs para ejecutar un programa (.exe, Java, PHP, Python o Node.js) o un script (.cmd, .bat, PowerShell o Bash). Suelen usarse para ejecutar tareas en segundo plano como parte de la lógica de aplicación.|
+| Apps Móvil| Compile rápidamente un back-end para aplicaciones iOS y Android|
+
+
+#### App Service controla:
+* Implementación y administración integrada en la misma plataforma.
+* Protege puntos de conexión.
+* Escale rápidamente para contolar cargas elevadas de tráfico.
+* El equilibrio de carga integrado y el administrador de tráfico proporcionan alta disponibilidad.
+
+
 ### Functions (Funciones) 
 
 
