@@ -1,3 +1,6 @@
+# Conceptos básicos de Azure :cloud:
+
+
 ## Informatica en la nube 
 
 La informatica en la nube es ofrecer servicios informaticos a tráves de Internet los cuales podemos implemetar de acuerdo a nuestras necesidades y requerimientos, y lo mejor de todo es que solo pagas por lo que usas.
@@ -41,7 +44,7 @@ Para conocer la variedad de servicios ofrece una cuenta gratuita que da acceso g
 ### ¿Qué son las nubes pública, privada e híbrida?
 <p align="center"> 
     <strong></strong>
-    <img alt="TiposNubes" src="./Imagenes/TiposNube.png"
+    <img alt="TiposNubes" src="../Imagenes/TiposNube.png"
     <strong></strong>
 </p>
 
@@ -49,7 +52,7 @@ Para conocer la variedad de servicios ofrece una cuenta gratuita que da acceso g
 
 <p align="center"> 
     <strong></strong>
-    <img alt="TiposNubes" src="./Imagenes/ComparacionNubes.png"
+    <img alt="TiposNubes" src="../Imagenes/ComparacionNubes.png"
     <strong></strong>
 </p>
 
@@ -57,7 +60,7 @@ Para conocer la variedad de servicios ofrece una cuenta gratuita que da acceso g
 
 <p align="center"> 
     <strong></strong>
-    <img alt="TiposNubes" src="./Imagenes/VentajasNube.png"
+    <img alt="TiposNubes" src="../Imagenes/VentajasNube.png"
     <strong></strong>
 </p>
 
@@ -88,7 +91,7 @@ Los proveedores de servicios en la nube operan en un modelo basado en el consumo
 
 <p align="center"> 
     <strong></strong>
-    <img alt="TiposNubes" src="./Imagenes/RespNube.png"
+    <img alt="TiposNubes" src="../Imagenes/RespNube.png"
     <strong></strong>
 </p>
 
@@ -102,7 +105,7 @@ Cuando se  habla de informática sin servido hace referencia a que como un usuar
 
 <p align="center"> 
     <strong></strong>
-    <img alt="TiposNubes" src="./Imagenes/JerarquiaAzure.png"
+    <img alt="TiposNubes" src="../Imagenes/JerarquiaAzure.png"
     <strong></strong>
 </p>
 
@@ -167,7 +170,7 @@ Es un servicios de administración e implementación de Azure con el cual pordem
 
 <p align="center"> 
     <strong></strong>
-    <img alt="TiposNubes" src="./Imagenes/ResourceManager.png"
+    <img alt="TiposNubes" src="../Imagenes/ResourceManager.png"
     <strong></strong>
 </p>
 
@@ -175,7 +178,7 @@ Es un servicios de administración e implementación de Azure con el cual pordem
 Herramientas para hacer solicitudes a Azure Resource Manager 
 <p align="center"> 
     <strong></strong>
-    <img alt="TiposNubes" src="./Imagenes/Administrador.png"
+    <img alt="TiposNubes" src="../Imagenes/Administrador.png"
     <strong></strong>
 </p>
 
@@ -206,7 +209,7 @@ Hay dos tipos de límites de suscripción que puede utilizar:
 
 <p align="center"> 
     <strong></strong>
-    <img alt="TiposNubes" src="./Imagenes/Suscripciones.png"
+    <img alt="TiposNubes" src="../Imagenes/Suscripciones.png"
     <strong></strong>
 </p>
 
@@ -215,6 +218,6 @@ Hay dos tipos de límites de suscripción que puede utilizar:
 
 <p align="center"> 
     <strong></strong>
-    <img alt="TiposNubes" src="./Imagenes/GrupodeRecursos.png"
+    <img alt="TiposNubes" src="../Imagenes/GrupodeRecursos.png"
     <strong></strong>
 </p>
