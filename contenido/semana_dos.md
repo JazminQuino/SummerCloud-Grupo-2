@@ -113,7 +113,7 @@ Estas son las dos maneras en las que podemos administrar contenedores:
 * Abstración del hardware, SO, infraestructura.
 * Azure es el encargado de la administración de la infraestrutura. 
 * Escalado automático. 
-* 
+
 La informática sin servidor incluye:
 <p align="center"> 
     <strong></strong>
