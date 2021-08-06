@@ -129,7 +129,7 @@ Functions y Logic Apps pueden crear orquestaciones complejas. Una orquestación 
 
 <p align="center"> 
     <strong></strong>
-    <img alt="TiposNubes" src="../Imagenes/Funtions_and_logic.png"
+    <img alt="TiposNubes" src="../Imagenes/Funtions_and_Logic.png"
     <strong></strong>
 </p>
 
