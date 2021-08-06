@@ -109,9 +109,32 @@ Estas son las dos maneras en las que podemos administrar contenedores:
 * El equilibrio de carga integrado y el administrador de tráfico proporcionan alta disponibilidad.
 
 
-### Functions (Funciones) 
+***Informática sin servidor*** 
+* Abstración del hardware, SO, infraestructura.
+* Azure es el encargado de la administración de la infraestrutura. 
+* Escalado automático. 
+* 
+La informática sin servidor incluye:
+<p align="center"> 
+    <strong></strong>
+    <img alt="TiposNubes" src="../Imagenes/Sin_servidor.png"
+    <strong></strong>
+</p>
+
+### Functions (Funciones)  vs  Azure Logic Apps
+
+Comparación entre Functions y Logic Apps
+
+Functions y Logic Apps pueden crear orquestaciones complejas. Una orquestación es una colección de funciones o pasos que se ejecutan para realizar una tarea compleja.
+
+<p align="center"> 
+    <strong></strong>
+    <img alt="TiposNubes" src="../Imagenes/Funtions_and_logic.png"
+    <strong></strong>
+</p>
 
 
+### Azure Virtual Desktop
 
 ## Servicios de red de Azure :globe_with_meridians:
 ## Servicios de Azure Storage :file_folder:
