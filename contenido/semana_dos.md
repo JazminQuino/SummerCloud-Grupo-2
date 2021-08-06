@@ -54,7 +54,30 @@ Podemos trabajar por lotes paralelos de gran escala y informática de alto rendi
 
 ### Containers 
 
-### Kubernetes
+#### ¿Qué son los contenedores?
+
+* Entorno de vitualización. 
+* Ejecucución de varias MVs en un solo hots.
+* No se administra el SO.
+* Responde a los cambios a petición.
+
+#### Administrar contenedores
+Los contenedores se administran a través de un orquestador por el medio del cual se pueden iniciar, detener y escalar las intacias de la app.
+
+Estas son las dos maneras en las que podemos administrar contenedores:
+
+##### Azure Container Instances
+* Rapidez y sencilles al ejecutar un contenedor.
+* Sin administración de MVs.
+* Paas.
+* Cargar contenedores que se ejecuten automáticamente.
+
+##### Azure Kubernetes Service
+* Administración de una gran cantidad de contenedores.
+* Orquestación de contedores con arquitetura distribuida.
+  
+#### Uso de contenedores en las soluciones
+ Arquitectura de **microservicios** donde divides una soulución partes pequeñas e independientes.
 
 ### App Service
 
