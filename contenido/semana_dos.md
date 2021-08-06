@@ -1,28 +1,28 @@
 # Servicios básicos de Azure
 
-## Servicios de Azure Compute :computer:
+# Servicios de Azure Compute :computer:
 
 Azure compute es el servicio de informatica en la nube que ofrece infreaestructura como discos, memoria, redes, procesadores y SO. Podemos hacer las implememntaciones de estos recursos en minitos o segundo y solo se pagamos por que usamos.
 
-### Virtual machines (Máquinas virtuales)
+## Virtual machines (Máquinas virtuales)
 
 Las máquinas virtuales son emulaciones de software de equipos físicos. Incluyen un procesador virtual, memoria, almacenamiento y recursos de red.
 
-#### Características 
+### Características 
 * IaaS. 
 * Servicio vitualizado.
 * Puede personalizar el software. 
 * No hay necesidar de mantener el hardware físico que ejecura la MV pues el proveedor de la nube se encarga de eso.
 * Implemetaciones de MV en segundos. 
 
-#### Ejemplos de cuándo usar máquinas virtuales
+### Ejemplos de cuándo usar máquinas virtuales
 <p align="center"> 
     <strong></strong>
     <img alt="TiposNubes" src="../Imagenes/Uso_MVs.png"
     <strong></strong>
 </p>
 
-### Escalado de máquinas virtuales en Azure
+## Escalado de máquinas virtuales en Azure
 
 Máquinas vituales únicas para: 
 * Pruebas.
@@ -32,7 +32,7 @@ Máquinas vituales únicas para:
 * Redundacia. 
 * Escalabilidad. 
   
-### Virtual machine scale sets (Conjuntos de escalado de máquinas virtuales)
+## Virtual machine scale sets (Conjuntos de escalado de máquinas virtuales)
 
 * Crear y administar un conjunto de MVs idénticas. 
 * Escalado automático verdadero. 
@@ -40,11 +40,11 @@ Máquinas vituales únicas para:
 * Las intacias de MVs puede aumnetar o disminuir de acurdo a la demanda y este proceso lo puede hacer automáticamente o manualmente.
 * Cree serivios a gran escala como procesos y macrodatos  
   
-### ¿Qué es Azure Batch?
+## ¿Qué es Azure Batch?
 
 Podemos trabajar por lotes paralelos de gran escala y informática de alto rendimiento (HPC) con la capacidad de escalar a decenas, cientos o miles de MVs.
 
-#### Cuando esté listo para ejecutar un trabajo, Batch:
+### Cuando esté listo para ejecutar un trabajo, Batch:
 * Iniciará un grupo de MVs de proceso de forma automática.
 * Instalará aplicaciones y datos de almacenamiento provisional.
 * Ejecutará trabajos con tantas tareas como tenga.
@@ -52,40 +52,40 @@ Podemos trabajar por lotes paralelos de gran escala y informática de alto rendi
 * Reordenará la cola de trabajo.
 * Reducirá verticalmente el grupo a medida que se complete el trabajo.
 
-### Containers 
+## Containers 
 
-#### ¿Qué son los contenedores?
+### ¿Qué son los contenedores?
 
 * Entorno de vitualización. 
 * Ejecucución de varias MVs en un solo hots.
 * No se administra el SO.
 * Responde a los cambios a petición.
 
-#### Administrar contenedores
+### Administrar contenedores
 Los contenedores se administran a través de un orquestador por el medio del cual se pueden iniciar, detener y escalar las intacias de la app.
 
 Estas son las dos maneras en las que podemos administrar contenedores:
 
-##### Azure Container Instances
+#### Azure Container Instances
 * Rapidez y sencilles al ejecutar un contenedor.
 * Sin administración de MVs.
 * Paas.
 * Cargar contenedores que se ejecuten automáticamente.
 
-##### Azure Kubernetes Service
+#### Azure Kubernetes Service
 * Administración de una gran cantidad de contenedores.
 * Orquestación de contedores con arquitetura distribuida.
   
-#### Uso de contenedores en las soluciones
+### Uso de contenedores en las soluciones
  Arquitectura de **microservicios** donde divides una soulución partes pequeñas e independientes.
 
-### App Service
+## App Service
 
 * Crear y hopedar aplicaciones web.
 * Paas
 * Compatible con Windows y Linux
   
- #### Tipos de servicios de aplicaciones 
+ ### Tipos de servicios de aplicaciones 
 
 <p align="center"> 
     <strong></strong>
@@ -102,7 +102,7 @@ Estas son las dos maneras en las que podemos administrar contenedores:
 | Apps Móvil| Compile rápidamente un back-end para aplicaciones iOS y Android|
 
 
-#### App Service controla:
+### App Service controla:
 * Implementación y administración integrada en la misma plataforma.
 * Protege puntos de conexión.
 * Escale rápidamente para contolar cargas elevadas de tráfico.
@@ -121,7 +121,7 @@ La informática sin servidor incluye:
     <strong></strong>
 </p>
 
-### Functions (Funciones)  vs  Azure Logic Apps
+## Functions (Funciones)  vs  Azure Logic Apps
 
 Comparación entre Functions y Logic Apps
 
@@ -134,11 +134,36 @@ Functions y Logic Apps pueden crear orquestaciones complejas. Una orquestación 
 </p>
 
 
-### Azure Virtual Desktop
+# Azure Virtual Desktop
 
-## Servicios de red de Azure :globe_with_meridians:
-## Servicios de Azure Storage :file_folder:
-## Servicios de análisis y bases de datos de Azure:cd:
+## ¿Qué es Azure Virtual Desktop?
+
+* Virtualización de escritorios y apps.
+* Funciona en dispositivos Windows, Mac, iOS, Anderoi y Linux.
+
+
+### ¿Por qué debería usar Azure Virtual Desktop?
+
+
+|**Proporción de la mejor experiencia de usuario** |**Aumento de la seguridad**|
+|-------------------------------------------------------------------------- | --------------- |
+|Puede usarlo desde cualquier dispositivo a través de Internet.    | Adminitración centralizada con Azure AD|  
+|El perfil de usuario está disponible inmediatamente por lo que puede tener un inicio de sesión rápido.    | Los datos y las apps se separan del escritorio local| 
+|Propiedad individual a través de escritorios personales     | Las sesiones de usuario están aisladas en entornos de una o varias sesiones.| 
+
+### ¿Cuáles son algunas de la principales características de Azure Virtual Desktop?
+
+
+<p align="center"> 
+    <strong></strong>
+    <img alt="TiposNubes" src="../Imagenes/Vitual_desktop.png"
+    <strong></strong>
+</p>
+
+
+# Servicios de red de Azure :globe_with_meridians:
+# Servicios de Azure Storage :file_folder:
+# Servicios de análisis y bases de datos de Azure:cd:
 
 
 
