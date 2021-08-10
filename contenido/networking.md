@@ -35,7 +35,7 @@ Con Azure VPN Gateway
 
 <p align="center"> 
     <strong></strong>
-    <img alt="TiposNubes" src="../Imagenes/TypeoGVN.png"
+    <img alt="TiposNubes" src="../Imagenes/TypeofVN.png"
     <strong></strong>
 </p>
 
