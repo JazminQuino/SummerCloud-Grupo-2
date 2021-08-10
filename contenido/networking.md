@@ -14,6 +14,10 @@ Las redes virtuales de Azure proporcionan las importantes funcionalidades de red
     <strong></strong>
 </p>
 
+Las redes virtuales son mecanismos eficaces y muy configurables para conectar las entidades de Azure. Puede conectar los recursos de Azure entre sí o a los recursos del entorno local. Puede aislar, filtrar y enrutar el tráfico de red. Azure le permite aumentar la seguridad donde considere que es necesario.
+
+
+
 ## Azure VPN Gateway
 
 ### Puertas de enlace de VPN
