@@ -2,10 +2,13 @@
 
 
 ## Azure storage
-- Alamcena archivos 
-- Mensajes
-- Tablas
-- Los clientes con sus apps pueden leer y escribir datos.
+<p align="center"> 
+    <strong></strong>
+    <img alt="TiposNubes" src="../Imagenes/storage.png"
+    <strong></strong>
+</p>
+
+Los que  clientes con sus apps puedan leer y escribir datos
   
 **IMPORTANTE**
 Primero cree una cuenta de Azure Storage, esta cuenta es un espacio único para los datos en Azure Storage. Y es:
@@ -53,10 +56,11 @@ Use Azure Files para las siguientes situaciones:
 
 ## Niveles de acceso de blob de Azure
 
-Niveles de acceso:
-* Nivel de acceso frecuente: datos a los que se accede con frecuencia, por ejemplo, imagenes en un sitio web.
-* Nivel de acceso esporádico: datos a los que se accede con poca frecuancia, y solo se alamcen por 30 días.
-* Nivel de acceso de archivo: datos a los que raramente se accede y se alamcena por al menos 180 días
-s
+<p align="center"> 
+    <strong></strong>
+    <img alt="TiposNubes" src="../Imagenes/Niveles.png"
+    <strong></strong>
+</p>
+
 
 # :house: [Regresar](https://github.com/JazminQuino/SummerCloud-Grupo-2/blob/main/contenido/semana_dos.md)
