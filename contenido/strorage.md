@@ -58,3 +58,5 @@ Niveles de acceso:
 * Nivel de acceso esporádico: datos a los que se accede con poca frecuancia, y solo se alamcen por 30 días.
 * Nivel de acceso de archivo: datos a los que raramente se accede y se alamcena por al menos 180 días
 s
+
+# :house: [Regresar](https://github.com/JazminQuino/SummerCloud-Grupo-2/blob/main/contenido/semana_dos.md)
