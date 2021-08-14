@@ -10,6 +10,7 @@
     <strong></strong>
     <img alt="TiposNubes" src="../Imagenes/sql.png"
     <strong></strong>
+</p>
 
 ### Migración
 
@@ -28,6 +29,7 @@
     <strong></strong>
     <img alt="TiposNubes" src="../Imagenes/Mysql.png"
     <strong></strong>
+</p>
 
 ## Azure Database for PostgreSQL
 
@@ -46,11 +48,34 @@ Servidor único e Hiperescala (Citus)
     <strong></strong>
     <img alt="TiposNubes" src="../Imagenes/Posgres.png"
     <strong></strong>
+</p>
 
+## Azure SQL Managed Instance
+* Servicio de datos en la nube.
+* Mayor compativilidad con el motor SQL Server.
+* PaaS
+* Aprovicionamiento rápido y escalado de servicio de Azure.
+* Actualizaciones de versiones  y revisiones.
+* Alta diponibilidad.
+* SLA del 99,99 %.
+* Automatización de copias de seguridad.
+* Copias de seguridad 
 
-Azure Synapse Analytics
-HDInsight de Azure
-Azure Databricks
-Análisis con Azure Data Lake
+### Migración
+Azure SQL Managed Instance facilita la migración de los datos locales en SQL Server a la nube con Azure Database Migration Service (DMS) o copias de seguridad y restauración nativas.
+
+<p align="center"> 
+    <strong></strong>
+    <img alt="TiposNubes" src="../Imagenes/Migracion.png"
+    <strong></strong>
+</p>
+
+## Análisis y macrodatos
+<p align="center"> 
+    <strong></strong>
+    <img alt="TiposNubes" src="../Imagenes/macro.png"
+    <strong></strong>
+</p>
+
 
 # :house: [Regresar](https://github.com/JazminQuino/SummerCloud-Grupo-2/blob/main/contenido/semana_dos.md)
