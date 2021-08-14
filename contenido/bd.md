@@ -29,7 +29,25 @@
     <img alt="TiposNubes" src="../Imagenes/Mysql.png"
     <strong></strong>
 
-Azure Database for PostgreSQL
+## Azure Database for PostgreSQL
+
+* Servicio de BDs relacional.
+* Se basa en la versión de la comunidad del motor de BDs de PostgreSQL de código abierto. 
+
+### Ventajas de Azure Database for PostgreSQL:
+* Alta diponibilidad las aplicaciones siempre están disponibles.
+* Precios sencillos y  flexibles: los beneficios van de acuwrdo al plan de tarifa  que elija.
+* Escalado vertical para que concida con el uso que se le da servicio.
+* Copias de seguridad automáticas ajustables y restauración con un máximo de 35 días.
+* Seguridad para porteger infromación en reposo y en movimiento.
+
+Servidor único e Hiperescala (Citus)
+<p align="center"> 
+    <strong></strong>
+    <img alt="TiposNubes" src="../Imagenes/Posgres.png"
+    <strong></strong>
+
+
 Azure Synapse Analytics
 HDInsight de Azure
 Azure Databricks
