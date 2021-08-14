@@ -23,11 +23,12 @@
 * Se basa en el motor MySQL Community Edition, versiones 5.6, 5.7 y 8.0
 * Nivel de servicio de disponibilidad del 99,99 %.
 * Puede utilizar la restauración, con un plazo máximo de 35 días.
+*  Azure Database for MySQL es la opción lógica para las aplicaciones de pila LAMP
   
  **Azure Database for MySQL ofrece:**
 <p align="center"> 
     <strong></strong>
-    <img alt="TiposNubes" src="../Imagenes/Mysql.png"
+    <img alt="TiposNubes" src="../Imagenes/mysql.png"
     <strong></strong>
 </p>
 
