@@ -35,6 +35,7 @@ Categorias de documentación:
     <img alt="TiposNubes" src="../Imagenes/Gov.png"
     <strong></strong>
 </p>
+
 ## Azure China 21Vianet
 <p align="center"> 
     <strong></strong>
