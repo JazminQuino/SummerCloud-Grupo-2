@@ -69,3 +69,5 @@ dispositivo solicita el acceso.
 decisiones para permitir o denegar accesos.
 
 Señal, Decisión, Cumplimiento -IMAGEN
+
+# :house: [Inicio](https://github.com/JazminQuino/SummerCloud-Grupo-2)

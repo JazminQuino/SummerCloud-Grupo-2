@@ -75,3 +75,6 @@ Ventajas de Azure Dedicated Host
 * Ayuda con requisitos de  cumplimiento con la implemetación de cargas de trabajo en un 
 servidor aislado.
 * Permite elegir el tamaño de las MVs dentro del Host.
+  
+  
+# :house: [Inicio](https://github.com/JazminQuino/SummerCloud-Grupo-2)
