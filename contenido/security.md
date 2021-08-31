@@ -1,6 +1,6 @@
 # Protección frente a amenazas de seguridad en Azure
 
- ##¿Qué es Azure Security Center?
+ ## ¿Qué es Azure Security Center?
 * Es un servico de supervición con el que puede tener visibilidad del ***nivel de
 seguridad*** en todos los serviios en Azure así como su entorno local.
 * Obtenga una vista centralizada de todas sus alertas de seguridad.
